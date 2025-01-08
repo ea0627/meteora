@@ -14,8 +14,20 @@
     color: #DAFF01;
 }
 
+.boton-color{
+    background-color: #9353FF;
+}
+
+.posicion{
+    top: 55%
+}
+
 @media(min-width:768px){
     .div-novedades{
         width: 696px;
+    }
+
+    .posicion{
+        top:40%;
     }
 }
