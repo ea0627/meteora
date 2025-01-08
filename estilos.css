@@ -10,9 +10,8 @@
     width: 325px;
 }
 
-.btn{
-    --bs-btn-color: var(--bs-white);
-    --bs-btn-bg: var(--bd-violet-bg);
+.texto-color{
+    color: #DAFF01;
 }
 
 @media(min-width:768px){
