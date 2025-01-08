@@ -10,6 +10,11 @@
     width: 325px;
 }
 
+.btn{
+    --bs-btn-color: var(--bs-white);
+    --bs-btn-bg: var(--bd-violet-bg);
+}
+
 @media(min-width:768px){
     .div-novedades{
         width: 696px;
